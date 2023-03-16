@@ -16,11 +16,13 @@ import { Single3Component } from './pages/single3/single3.component';
 import { Single4Component } from './pages/single4/single4.component';
 import { SinglepageComponent } from './pages/singlepage/singlepage.component';
 import { Singlepage2Component } from './pages/singlepage2/singlepage2.component';
+import { TechComponent } from './pages/tech/tech.component';
+import { TechnologiesComponent } from './pages/technologies/technologies.component';
 import { TermsComponent } from './pages/terms/terms.component';
 
 const routes: Routes = [
   {path:"", component:HomeComponent},
-
+  {path:"buy", component:TechnologiesComponent},
   {path:"home", component:HomeComponent},
   {
     path:"about",component:AboutComponent
@@ -72,6 +74,10 @@ const routes: Routes = [
   {
     path:"single4",component:Single4Component
   },
+  {
+    path:"tech",component:TechComponent
+  },
+  
 ];
 
 

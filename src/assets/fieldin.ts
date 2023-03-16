@@ -197,8 +197,8 @@ export const database1=[
               {
                 "name":"ORGANIC VEGETABLES",
                 
-               "img":"https://greenerideal.com/wp-content/uploads/2012/03/organic-farming.jpg",
-               "img1":"http://images.newindianexpress.com/uploads/user/imagelibrary/2017/8/11/original/organic_farming.jpg",
+               "img":"https://tse3.mm.bing.net/th?id=OIP.18KfjM8e7fWi7ATUTnCyKAHaHa&pid=Api&P=0",
+               "img1":"https://tse3.mm.bing.net/th?id=OIP.18KfjM8e7fWi7ATUTnCyKAHaHa&pid=Api&P=0",
                "img2":"https://s-i.huffpost.com/gen/3025134/images/o-ORGANIC-AGRICULTURE-PROFITABLE-facebook.jpg",
                "img3":"https://wwoof.com.au/wp-content/uploads/mediapress/members/8099/33340/150412050-2.jpg",
                "img4":"https://www.greenqueen.com.hk/wp-content/uploads/2020/02/organic-farming.jpg",
@@ -207,5 +207,76 @@ export const database1=[
            
                
               },
+        ]
+            export const database5=[
+              {
+                "id":"100",
+                "name":"BONSAI FERTILIZER",
+                "img":"https://lawnsone.co.uk/wp-content/uploads/2020/10/LawnsOne-Fertiliser-770x477-1.jpg",
+                "desc":"Fertilizers for vegetables, flowers, trees and shrubs.Material of natural or synthetic origin (other than liming materials) applied to soils or to plants to supply essential nutrients",
+                "price":"1200"
+              },
+                {
+                  "id":"101",
+                  "name":"NITROGEN FERTILIZER",
+                  "img":"https://www.nutricarefertilisers.com/wp-content/uploads/2012/09/PA080328-e1349699135306.jpg",
+                  "desc":"fertilizers are used for various methods, including injection, broadcasting, banding, and with irrigation water.Many metabolic processes in plants and animals rely on nitrogen.",
+                  "price":"2000"
+                 
+                        
+                 
+                },
+                {
+                  "id":"102",
+                  "name":" FLOWER FOOD FERTILIZER",
+                  "img":"https://i5.walmartimages.com/asr/e40b3e77-96ab-45ff-b007-5d69c381f25b.c799c442e86f84d9d22ac01befc2fc92.jpeg",
+                  "desc":"fertilizers are used for various methods, including injection, broadcasting, banding, and with irrigation water.Many metabolic processes in plants and animals rely on nitrogen.",
+                  "price":"3000"
+                  
+                 
+                 },
+
+                 {
+                  "id":"103",
+                  "name":" PLANTMATE",
+                  "img":"https://tse4.mm.bing.net/th?id=OIP.FjOGSpLwpOb-XIb3DpBGZAHaJl&pid=Api&P=0",
+                  "desc":"This superior organic fertilizer is a product of an advanced bio-fermentation process using as raw materials:  animal wastes like chicken dung and other fowl wastes and livestock manure as well as plant wastes",
+                  "price":"3200"
+                  
+                 },
+
+                 {
+                  "id":"104",
+                  "name":"BioActive",
+                  "img":"https://keeneorganics.com/wp-content/uploads/2020/05/IMG_7901-scaled.jpeg",
+                  "desc":"Plants that absorb more nutrients become more nutritious making your food all the better. When your garden, beds, or lawn need more fertility use Purple Cow BioActive All-Purpose Fertilizer.",
+                  "price":"1000"
+                  
+                 },
+
+                 {
+                  "id":"105",
+                  "name":" LAWN FERTILIZER",
+                  "img":"https://tse2.mm.bing.net/th?id=OIP.x9hQwRY838gZjVoFIqDAsAHaIi&pid=Api&P=0",
+                  "desc":"Fertilizer is essential to keeping your lawn healthy and plants growing strong.Lawn fertilizer to organic lawn fertilizer, we have lots of options to keep your yard looking fresh.",
+                  "price":"2100"
+                  
+                 },
+                 {
+                  "id":"106",
+                  "name":" POWER GROW FERTILIZER",
+                  "img":"https://toptillers.com/wp-content/uploads/2018/04/Synthetic-Fertilizers.jpg",
+                  "desc":"Hydroponics nutrients from PowerGrow Systems & Utah Hydroponics can supercharge your garden. We carry a full line of both hydroponic and soil nutrients to optimize the growth in your systems and garden.",
+                  "price":"2100"
+                  
+                 },
+                 {
+                  "id":"107",
+                  "name":" TURBUN FERTILIZER",
+                  "img":"https://www.realestate.com.au/blog/images/2000x1500-fit,progressive/2018/11/15160018/Seasol.jpg",
+                  "desc":"Fertilizer is essential to keeping your lawn healthy and plants growing strong.Lawn fertilizer to organic lawn fertilizer, we have lots of options to keep your yard looking fresh.",
+                  "price":"2100"
+                  
+                 }
+
             ]
-          

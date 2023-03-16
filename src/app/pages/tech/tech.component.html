@@ -1,0 +1,22 @@
+
+
+    <div class="container text-center">
+        <div class="row">
+          <div class="col" *ngFor="let d of single">
+            <div class="flip-card">
+              <div class="flip-card-inner">
+                <div class="flip-card-front">
+                  <img src="{{d.img}}" alt="Avatar" style="width:300px;height:300px;">
+                </div>
+                <div class="flip-card-back">
+                  <h5>{{d.name}}</h5>
+                  <p>{{d.desc}}</p>
+                  <p>{{d.price}}</p>
+                  <button type="button" (click)="buy(d.id)"class="btn btn-danger">BUY NOW</button>
+                </div>
+            </div>
+            </div>
+          </div>
+          </div>
+          </div>
+            
