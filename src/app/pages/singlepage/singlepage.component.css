@@ -1,0 +1,14 @@
+.images{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.card-img-top{
+    margin: 1% 2%;
+}
+
+.cardDiv{
+    display: flex;
+    justify-content: center;
+}

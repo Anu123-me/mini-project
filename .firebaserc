@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "miniproject-e24c3": {
+      "hosting": {
+        "mini": [
+          "miniproject-e24c3"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "miniproject-e24c3"
+  }
+}

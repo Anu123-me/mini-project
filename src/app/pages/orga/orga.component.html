@@ -1,0 +1,25 @@
+<div class="header">
+  <h1>CATEGORY:</h1>
+  <p>ORGANIC FARMING</p>
+</div>
+
+<div class="container-fluid" style="background-image: url('https://www.farmingindia.in/wp-content/uploads/organic-manure.jpg'); margin-top: 20px; background-position: center; background-repeat: no-repeat; background-size: cover;margin-bottom: 80px;">
+  <p class="text-center" style="height: 300px; margin-top: auto; margin-bottom: auto; font-weight: 700; font-size: 30px; color: rgb(255, 230, 0);" > </p>
+</div>
+
+<div class="container text-center">
+    <div class="row">
+      <div class="col col-lg-3" *ngFor="let data of database" >
+        <div class="card" style="width: 18rem;">
+          <img src="{{data.img}}" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">{{data.name}}</h5>
+            <p class="card-text">{{data.description}}</p>
+            <a (click)="gotoHere(data.name)" class="btn btn-primary">READ MORE</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
